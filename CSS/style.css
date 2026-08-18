@@ -38,7 +38,7 @@ img {
 ================================ */
 
 header {
-    background-color: #0f172a;
+    background-color: #260707;
 
     position: sticky;
 
@@ -121,8 +121,8 @@ header {
     background:
         linear-gradient(
             135deg,
-            rgba(15, 23, 42, 0.91),
-            rgba(30, 64, 175, 0.72)
+            rgba(92, 70, 74, 0.91),
+            rgba(151, 39, 64, 0.72)
         );
 
     display: flex;
@@ -216,7 +216,7 @@ header {
 .proyecto button {
     display: inline-block;
 
-    background-color: #2563eb;
+    background-color: #821b1d;
 
     color: white;
 
@@ -240,7 +240,7 @@ header {
 
 .btn:hover,
 .proyecto button:hover {
-    background-color: #1d4ed8;
+    background-color: #89162f;
 
     transform: translateY(-3px);
 
@@ -638,7 +638,7 @@ header {
 ================================ */
 
 footer {
-    background-color: #020617;
+    background-color: #390000;
 
     color: #cbd5e1;
 
